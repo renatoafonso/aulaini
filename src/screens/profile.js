@@ -4,7 +4,7 @@ export default function Profile() {
     return (
         <View style = {styles.meucontainer}>
             <Image style={styles.minhaimagem} source={{
-                 uri: 'https://github.com/renatoafonso/aulaini/blob/main/assets/imagens/imagem.png',
+                 uri: 'https://github.com/renatoafonso/aulaini/blob/main/imagens/imagem.png?raw=true',
                 }}
             />
             <Text style={styles.meutexto}>Tela de perfil</Text>
