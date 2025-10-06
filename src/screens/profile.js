@@ -4,7 +4,7 @@ export default function Profile() {
     return (
         <View style = {styles.meucontainer}>
             <Image style={styles.minhaimagem} source={{
-                 uri: 'https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png',
+                 uri: 'https://github.com/renatoafonso/aulaini/blob/main/assets/imagens/imagem.png',
                 }}
             />
             <Text style={styles.meutexto}>Tela de perfil</Text>
